@@ -1,0 +1,9 @@
+target/
+*.class
+study_planner.db
+study_planner.db-shm
+study_planner.db-wal
+.project
+.classpath
+.settings/
+.idea/
